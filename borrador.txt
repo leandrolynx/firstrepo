@@ -1,0 +1,15 @@
+.top_image{
+	height: 100vh;
+	width: 100%;
+	position: absolute;
+	z-index: 1;
+}
+
+.tittle--image{
+	position: absolute;
+	z-index: 2;
+} 
+
+
+
+<img class="tittle-img" src="./imgs/tittle-3.png">
